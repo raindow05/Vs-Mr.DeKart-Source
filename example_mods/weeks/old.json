@@ -1,0 +1,175 @@
+{
+	"storyName": "old",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "old",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"old",
+		"old",
+		"old"
+	],
+	"songs": [
+		[
+			"old hide from me",
+			"luntik_x_phase_1",
+			[
+				212,
+				174,
+				233
+			]
+		],
+		[
+			"old hard and fun work",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"no help",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"old 1 million",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"older 1 million",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"old bad flashbacks",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"older bad flashbacks",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"old succes",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"older succes",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"funning",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"monetization",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"older monetization",
+			"mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"old demonitization",
+			"luntik_x",
+			[
+				255,
+				53,
+				253
+			]
+		],
+		[
+			"x",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"old exe",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"old corruption",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"big problems",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "old"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dekart idle"
+		},
+		{
+			"offsets": [
+				-6,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dekart left"
+		},
+		{
+			"offsets": [
+				14,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dekart down"
+		},
+		{
+			"offsets": [
+				39,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dekart up"
+		},
+		{
+			"offsets": [
+				-16,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dekart right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dekart.exe",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "exe_mr_dekart",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

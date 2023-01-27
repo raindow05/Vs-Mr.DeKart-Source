@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV_Glitch.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glitch0000" x="38" y="38" width="1280" height="720"/>
+	<SubTexture name="glitch0001" x="1418" y="38" width="1280" height="720"/>
+	<SubTexture name="glitch0002" x="38" y="858" width="1280" height="720"/>
+	<SubTexture name="glitch0003" x="1418" y="858" width="1280" height="720"/>
+	<SubTexture name="glitch0004" x="2798" y="858" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

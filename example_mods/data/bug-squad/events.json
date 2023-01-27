@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bug_squad",
+		"player1": "bf-perspective-right",
+		"player2": "kuza-x",
+		"player3": null,
+		"events": [
+			[
+				104000,
+				[
+					[
+						"Change Character",
+						"1",
+						"luntik-x-phase-3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bug-squad"
+	}
+}

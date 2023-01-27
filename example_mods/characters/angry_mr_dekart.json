@@ -1,0 +1,215 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dekart idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dekart left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dekart down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dekart up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dekart right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "dekart idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "dekart i-no mic"
+		},
+		{
+			"offsets": [
+				-6,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "dekart l-no mic"
+		},
+		{
+			"offsets": [
+				22,
+				-49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "dekart d-no mic"
+		},
+		{
+			"offsets": [
+				70,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "dekart u-no mic"
+		},
+		{
+			"offsets": [
+				-10,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "dekart r-no mic"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop-alt",
+			"loop": true,
+			"name": "dekart i-no mic"
+		},
+		{
+			"offsets": [
+				-12,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "dekart scream"
+		},
+		{
+			"offsets": [
+				-1,
+				11
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "dekart mic shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_mr_dekart",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "angry_mr_dekart",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		144,
+		0
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

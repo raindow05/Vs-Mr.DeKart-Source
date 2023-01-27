@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mr dekart 2.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dekart down0000" x="0" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0001" x="0" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0002" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0003" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0004" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0005" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0006" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0007" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0008" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0009" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0010" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0011" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0012" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="dekart down0013" x="432" y="0" width="432" height="541"/>
+	<SubTexture name="idle0000" x="864" y="0" width="371" height="591"/>
+	<SubTexture name="idle0001" x="864" y="0" width="371" height="591"/>
+	<SubTexture name="idle0002" x="1235" y="0" width="371" height="591"/>
+	<SubTexture name="idle0003" x="1235" y="0" width="371" height="591"/>
+	<SubTexture name="idle0004" x="1606" y="0" width="371" height="591"/>
+	<SubTexture name="idle0005" x="1606" y="0" width="371" height="591"/>
+	<SubTexture name="idle0006" x="0" y="591" width="371" height="591"/>
+	<SubTexture name="idle0007" x="0" y="591" width="371" height="591"/>
+	<SubTexture name="idle0008" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="idle0009" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="idle0010" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="idle0011" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="idle0012" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="idle0013" x="371" y="591" width="371" height="591"/>
+	<SubTexture name="dekart left0000" x="742" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0001" x="742" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0002" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0003" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0004" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0005" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0006" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0007" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0008" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0009" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0010" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0011" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0012" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart left0013" x="1147" y="591" width="405" height="597"/>
+	<SubTexture name="dekart right0000" x="1552" y="591" width="410" height="584"/>
+	<SubTexture name="dekart right0001" x="1552" y="591" width="410" height="584"/>
+	<SubTexture name="dekart right0002" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0003" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0004" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0005" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0006" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0007" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0008" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0009" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0010" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0011" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0012" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart right0013" x="0" y="1188" width="410" height="584"/>
+	<SubTexture name="dekart up0000" x="410" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0001" x="410" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0002" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0003" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0004" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0005" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0006" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0007" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0008" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0009" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0010" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0011" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0012" x="847" y="1188" width="437" height="603"/>
+	<SubTexture name="dekart up0013" x="847" y="1188" width="437" height="603"/>
+</TextureAtlas>

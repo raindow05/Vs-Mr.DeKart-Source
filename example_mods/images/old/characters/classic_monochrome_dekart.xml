@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monodek.png"><SubTexture name="monodek down0000" x="0" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek down0001" x="772" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek idle0000" x="1544" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek idle0001" x="2316" y="0" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek left0000" x="0" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek left0001" x="772" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek right0000" x="1544" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek right0001" x="2316" y="772" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek up0000" x="0" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+<SubTexture name="monodek up0001" x="772" y="1544" width="772" height="772" frameX="0" frameY="0" frameWidth="772" frameHeight="772" />
+</TextureAtlas>

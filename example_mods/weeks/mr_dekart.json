@@ -1,0 +1,67 @@
+{
+	"storyName": "dekart is cool",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hard and fun work",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"1 million",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"bad flashbacks",
+			"neutral_mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"succes",
+			"neutral_mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"no help",
+			"angry_mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "mr_dekart"
+}

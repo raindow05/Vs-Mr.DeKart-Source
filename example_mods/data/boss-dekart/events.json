@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "exe_game",
+		"player1": "bf_exe_song",
+		"player2": "canon_exe_dekart",
+		"player3": null,
+		"events": [
+			[
+				6666.66666666667,
+				[
+					[
+						"Play Animation",
+						"start",
+						"0"
+					]
+				]
+			],
+			[
+				54666.6666666667,
+				[
+					[
+						"bg",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97333.3333333333,
+				[
+					[
+						"bg",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				118666.666666667,
+				[
+					[
+						"bg",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				161333.333333333,
+				[
+					[
+						"bg",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				166833.333333333,
+				[
+					[
+						"Play Animation",
+						"end",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Boss Dekart"
+	}
+}

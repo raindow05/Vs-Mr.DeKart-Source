@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="room_pibby.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="38" y="38" width="2560" height="1400"/>
+	<SubTexture name="Symbol 10001" x="2698" y="38" width="2560" height="1400"/>
+	<SubTexture name="Symbol 10002" x="5358" y="38" width="2560" height="1400"/>
+	<SubTexture name="Symbol 10003" x="38" y="1538" width="2560" height="1400"/>
+</TextureAtlas>

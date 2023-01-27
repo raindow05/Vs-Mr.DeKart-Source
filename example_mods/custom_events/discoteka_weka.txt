@@ -1,0 +1,4 @@
+value 1: 0 - turn off
+ 1 - red, 2 - yellow, 3 - blue,
+4 - green, 5 - purple, 6 - orange, 7 - random 
+

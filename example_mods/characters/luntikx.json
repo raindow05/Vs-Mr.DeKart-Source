@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				98,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-232
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-102
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-124
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luntikx",
+	"position": [
+		100,
+		-10
+	],
+	"healthicon": "luntikx",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		0,
+		110
+	],
+	"camera_position": [
+		30,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

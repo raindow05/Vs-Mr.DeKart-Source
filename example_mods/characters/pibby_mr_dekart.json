@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dekart idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dekart left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dekart right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dekart down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				76
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dekart up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "ALTleft"
+		},
+		{
+			"offsets": [
+				6,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "ALTright"
+		},
+		{
+			"offsets": [
+				152,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "ALTdown"
+		},
+		{
+			"offsets": [
+				63,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "ALTup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibby_mr_dekart",
+	"position": [
+		-100,
+		150
+	],
+	"healthicon": "pibby_mr_dekart",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		144,
+		0
+	],
+	"camera_position": [
+		-80,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

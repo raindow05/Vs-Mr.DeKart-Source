@@ -1,0 +1,67 @@
+{
+	"storyName": "dekart is exe",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "exe_game",
+	"weekBefore": "mrdekart",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"exe",
+			"exe_mr_dekart",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"corruption",
+			"exe_mr_dekart",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"not so fast",
+			"exe_mr_dekart",
+			[
+				206,
+				0,
+				0
+			]
+		],
+		[
+			"exorcism",
+			"exe_mr_dekart",
+			[
+				206,
+				0,
+				0
+			]
+		],
+		[
+			"big problem",
+			"exe_mr_dekart",
+			[
+				206,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "exe_mr_dekart"
+}

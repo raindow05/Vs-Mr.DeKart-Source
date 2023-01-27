@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="youtube page.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube page0000" x="0" y="0" width="1808" height="1364" frameX="0" frameY="0" frameWidth="1808" frameHeight="1365"/>
+	<SubTexture name="youtube page0001" x="1808" y="0" width="1808" height="1364" frameX="0" frameY="0" frameWidth="1808" frameHeight="1365"/>
+	<SubTexture name="youtube page0002" x="3616" y="0" width="1808" height="1365"/>
+	<SubTexture name="youtube page0003" x="5424" y="0" width="1808" height="1365"/>
+	<SubTexture name="youtube page0004" x="0" y="1365" width="1808" height="1365"/>
+	<SubTexture name="youtube page0005" x="1808" y="1365" width="1808" height="1365"/>
+	<SubTexture name="youtube page0006" x="3616" y="1365" width="1808" height="1365"/>
+	<SubTexture name="youtube page0007" x="5424" y="1365" width="1808" height="1365"/>
+	<SubTexture name="youtube page0008" x="0" y="2730" width="1808" height="1365"/>
+	<SubTexture name="youtube page0009" x="1808" y="2730" width="1808" height="1365"/>
+	<SubTexture name="youtube page0010" x="3616" y="2730" width="1808" height="1365"/>
+	<SubTexture name="youtube page0011" x="5424" y="2730" width="1808" height="1365"/>
+	<SubTexture name="youtube page0012" x="1808" y="2730" width="1808" height="1365"/>
+	<SubTexture name="youtube page0013" x="0" y="4095" width="1808" height="1365"/>
+</TextureAtlas>

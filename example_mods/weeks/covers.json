@@ -1,0 +1,95 @@
+{
+	"storyName": "Remixes",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "Covers",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Monochrome",
+			"monodekart",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Endless",
+			"exe_dekart",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Glitcher Remix",
+			"exe_mr_dekart",
+			[
+				155,
+				0,
+				0
+			]
+		],
+		[
+			"Fate",
+			"exe_mr_dekart",
+			[
+				155,
+				0,
+				0
+			]
+		],
+		[
+			"Sunshine",
+			"neutral_mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"Too Slow Encore",
+			"luntik_x_phase_1",
+			[
+				212,
+				174,
+				233
+			]
+		],
+		[
+			"You Cant Run",
+			"Luntik_x",
+			[
+				211,
+				176,
+				232
+			]
+		],	
+		[
+			"Game Over",
+			"exe_dekart",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Covers",
+	"hiddenUntilUnlocked": false
+}

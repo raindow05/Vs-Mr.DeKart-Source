@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dekart idle"
+		},
+		{
+			"offsets": [
+				155,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dekart left"
+		},
+		{
+			"offsets": [
+				107,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dekart down"
+		},
+		{
+			"offsets": [
+				64,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dekart up"
+		},
+		{
+			"offsets": [
+				60,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dekart right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/canon dekart exe charly",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "exe_dekart",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		0,
+		0
+	],
+	"camera_position": [
+		180,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

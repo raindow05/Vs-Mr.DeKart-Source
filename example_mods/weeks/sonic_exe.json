@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"nightmare begins",
+			"sonic_exe",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"nightmare continues",
+			"sonic_exe",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"confronting yourself",
+			"sonic_exe",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "dead_hills",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "sonic exe found mr dekart",
+	"weekName": "sonic_exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "luntikx",
+	"startUnlocked": true
+}

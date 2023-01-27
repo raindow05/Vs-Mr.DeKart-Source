@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "night_room",
+		"player1": "bf",
+		"player2": "angry_mr_dekart",
+		"player3": null,
+		"events": [
+			[
+				150285.714285714,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_no_bumpers",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "no-help-encore"
+	}
+}

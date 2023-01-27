@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "dead_hills",
+		"player1": "neutral_mr_dekart",
+		"player2": "sonic_exe",
+		"player3": null,
+		"events": [
+			[
+				22000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "nightmare-begins"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"rapgod",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tutorial"
+}

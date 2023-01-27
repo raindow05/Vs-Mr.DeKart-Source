@@ -1,0 +1,76 @@
+{
+	"storyName": "Bonus.",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "Bonus.",
+	"weekBefore": "dekart",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Charly",
+			"exe_dekart",
+			[
+				255,
+				20,
+				0
+			]
+		],
+		[
+			"boss dekart",
+			"exe_dekart",
+			[
+				255,
+				20,
+				0
+			]
+		],
+		[
+			"demonitization",
+			"mr_dekart",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"temporary nuisance",
+			"neutral_mr_dekart",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"quiet help",
+			"pibby_mr_dekart",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"Custom Dekart Song",
+			"mr_dekart",
+			[
+				255,
+				113,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

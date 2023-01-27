@@ -1,0 +1,49 @@
+{
+	"storyName": "luntik is exe",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "lake",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mrdekart",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"moon encounter",
+			"luntik_x_phase_1",
+			[
+				212,
+				174,
+				233
+			]
+		],
+		[
+			"hide from me",
+			"luntik_x",
+			[
+				215,
+				56,
+				255
+			]
+		],
+		[
+			"bug squad",
+			"luntik_x",
+			[
+				206,
+				53,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "luntik_x"
+}

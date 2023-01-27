@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "room",
+		"player1": "bf",
+		"player2": "redekart",
+		"player3": null,
+		"events": [
+			[
+				14896.5517241379,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				71172.4137931034,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_no_bumpers",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "custom-dekart-song"
+	}
+}

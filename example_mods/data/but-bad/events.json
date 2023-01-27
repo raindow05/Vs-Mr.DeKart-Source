@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "room_but_bat",
+		"player1": "bf_but_bad",
+		"player2": "mr_dekart_but_bad",
+		"player3": null,
+		"events": [
+			[
+				100000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.92",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.6, 0.3",
+						""
+					]
+				]
+			],
+			[
+				100571.428571429,
+				[
+					[
+						"Set Cam Zoom",
+						"0.72",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteBad",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 105,
+		"arrowSkin": "NOTE_bad",
+		"needsVoices": true,
+		"song": "But bad"
+	}
+}

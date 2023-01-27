@@ -1,0 +1,1454 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "lake",
+		"player1": "bf",
+		"player2": "luntik_x_phase_1",
+		"player3": null,
+		"events": [
+			[
+				19862.0689655172,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				23172.4137931035,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					],
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				23379.3103448276,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				24827.5862068966,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				25034.4827586207,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				26482.7586206897,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				26689.6551724138,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				28137.9310344828,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28344.8275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				29793.1034482759,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				31448.275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				31655.1724137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				33103.4482758621,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33310.3448275862,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				34758.6206896552,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				34965.5172413793,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				36413.7931034483,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				36620.6896551724,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				38068.9655172414,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				38275.8620689655,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				39724.1379310345,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39931.0344827586,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				41379.3103448276,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					],
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				41586.2068965517,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				41793.1034482759,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				42103.4482758621,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				42155.1724137931,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				42206.8965517241,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				42413.7931034483,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				42620.6896551724,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				42827.5862068966,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				43034.4827586207,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43241.3793103448,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				44689.6551724138,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				44896.5517241379,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				46344.8275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46551.724137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					],
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				48206.8965517241,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				48413.7931034483,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				48724.1379310345,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				48775.8620689655,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				48827.5862068966,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				49034.4827586207,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				49241.3793103448,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				49448.275862069,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				49655.1724137931,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				49862.0689655172,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				51310.3448275862,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				51517.2413793103,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				52965.5172413793,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				53172.4137931034,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				54620.6896551724,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				54827.5862068965,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				55448.275862069,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				56068.9655172414,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				56275.8620689655,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				56482.7586206896,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				57931.0344827586,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				58137.9310344827,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				59586.2068965517,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				59793.1034482758,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				61241.3793103448,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				61448.2758620689,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				62068.9655172414,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				62689.6551724138,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				67862.0689655172,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				69517.2413793103,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					],
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				69724.1379310345,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				71172.4137931034,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				71379.3103448276,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				72827.5862068965,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				73034.4827586207,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				74482.7586206896,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				74689.6551724138,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				76137.9310344827,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				89379.3103448275,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				90206.8965517241,
+				[
+					[
+						"Set Cam Zoom",
+						"0.55",
+						""
+					]
+				]
+			],
+			[
+				91034.4827586206,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				91448.2758620689,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				91862.0689655172,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				92275.8620689655,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				92689.6551724137,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				96827.5862068965,
+				[
+					[
+						"Set Cam Zoom",
+						"0.55",
+						""
+					]
+				]
+			],
+			[
+				97655.172413793,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				98482.7586206896,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				99310.3448275861,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				100137.931034483,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				100965.517241379,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				101793.103448276,
+				[
+					[
+						"Set Cam Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				102620.689655172,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102827.586206896,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				103241.379310345,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				103448.275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				103862.068965517,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104068.965517241,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				104275.862068965,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				104482.75862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				104896.551724138,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105103.448275862,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				105517.24137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				105724.137931034,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				105931.034482759,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106137.931034482,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				106551.724137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				106758.620689655,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				107172.413793103,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				107379.310344827,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				107586.206896552,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				107793.103448276,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				108206.896551724,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108413.793103448,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				108827.586206896,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				109034.48275862,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				109241.379310345,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				109448.275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				109862.068965517,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				110068.965517241,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				110482.75862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				110689.655172414,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				110896.551724138,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				111103.448275862,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				111517.24137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				111724.137931034,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				112137.931034483,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				112344.827586207,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				112551.724137931,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				112758.620689655,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				113172.413793103,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				113379.310344828,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				113793.103448276,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				114206.896551724,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				114413.793103448,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				114827.586206896,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115034.482758621,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				115448.275862069,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				115655.172413793,
+				[
+					[
+						"Bad flashbacks arrows event",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				122482.75862069,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "moon-encounter"
+	}
+}

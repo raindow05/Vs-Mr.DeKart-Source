@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				392,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				185,
+				-336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				236,
+				-288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				222,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				140,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luntik_x_phase_2",
+	"position": [
+		160,
+		-200
+	],
+	"healthicon": "luntik_x",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		153
+	],
+	"camera_position": [
+		-130,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

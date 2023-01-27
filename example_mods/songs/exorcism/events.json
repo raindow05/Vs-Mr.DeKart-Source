@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "exe_game",
+		"player1": "bf_exe_song",
+		"player2": "exe_mr_dekart",
+		"player3": null,
+		"events": [
+			[
+				19090.9090909091,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "exorcism"
+	}
+}
